@@ -1,0 +1,63 @@
+body {
+    background-image: url(back.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:  center;
+    min-height: 100%;
+    box-sizing: border-box;
+    
+   }
+h1 {
+    margin: auto;
+    color:white;
+    padding: 30px;
+}
+
+.all {
+    background-color: black;
+    margin: auto;
+    width: 350px;
+    margin-top: 9%;
+    text-align: center;
+    padding-bottom: 2%;
+    
+}
+label {
+    color: aliceblue;
+    margin-right: 55%;
+}
+
+#log {
+    background-color: rgb(233 66 53);
+    color: white;
+    border: 0cm;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 81%;
+    padding: 8px;
+    margin-bottom: 8%;
+    margin-top: 8%;
+}
+p {
+    font-size: 12px;
+    color: white;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.data {
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 85%;
+    margin-left: 11%;
+}
+.enter {
+    margin-right: 20%;
+    margin-top: 5%;
+
+}
+#down {
+    text-align: left;
+    margin: 5%;
+}
